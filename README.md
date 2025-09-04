@@ -40,7 +40,7 @@
 <p align="center">
 <!-- LEETCODE_STATS_START -->
 <img align="center"
-                src ="https://raw.githubusercontent.com/K-NSS-Dileep/LeetCode-Stats-Auto-Updater/main/Display.svg?cache_bust=1756862462"
+                src ="https://raw.githubusercontent.com/K-NSS-Dileep/LeetCode-Stats-Auto-Updater/main/Display.svg?cache_bust=1756948862"
                 alt ="LeetCodeStats"
                 />
 <!-- LEETCODE_STATS_END -->
